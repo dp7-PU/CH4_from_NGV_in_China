@@ -1,4 +1,5 @@
-The zip file contains following files:
+The repository consists following source data and codes for the manuscript "Methane Emissions from Natural Gas Vehicles in China".
+
 1. Calculate_ER.py
 2. 0610_10Hz_with_ratios_1s_final.csv
 3. 0611_10Hz_with_ratios_1s_final.csv
